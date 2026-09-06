@@ -1,2 +1,4 @@
 [functions.enviar-notificacion]
 verify_jwt = true
+[functions.administrar-usuarios]
+verify_jwt = true
